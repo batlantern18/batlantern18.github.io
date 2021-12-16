@@ -20,9 +20,9 @@ HOW TO CRAFT
   
     4 Minecoins = 1 Minecoin Block
     1 Minecoin Block = 4 Minecoins
-
+    
 **Shaped**
-![Shaped Recipe](https://draf18.github.io/img/minecoin_recipe.png)
+![**Shaped Recipe**](https://draf18.github.io/img/minecoin_recipe.png)
 
 *INCLUDED THE .BRPROJECT*
 
